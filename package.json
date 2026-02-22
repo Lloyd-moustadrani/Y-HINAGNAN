@@ -1,1 +1,1 @@
-{\n  "name": "Y-HINAGNAN",\n  "private": true,\n  "workspaces": [\n    "apps/*",\n    "packages/*"\n  ]\n}
+{"private": true, "workspaces": ["apps/*", "packages/*"]}
